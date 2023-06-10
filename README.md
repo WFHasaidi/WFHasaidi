@@ -23,15 +23,5 @@ Here are some ideas to get you started:
 - Pronouns: he/him
 
 
-| Skill     | Logo                                                                 |
-| --------- | -------------------------------------------------------------------- |
-| PHP       | ![PHP Logo]                                                          |
-| Symfony   | ![Symfony Logo]                                                      |
-| Git       | ![Git Logo]                                                          |
-| MySQL     | ![MySQL Logo]                                                        |
-| Python    | ![Python Logo]                                                       |
-| Linux     | ![Linux Logo]                                                        |
-| CSS3      | ![CSS3 Logo]                                                         |
 
-Feel free to reach out if you have any questions about my skills or if you need more information about any particular skill.
 
